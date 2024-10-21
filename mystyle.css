@@ -70,14 +70,14 @@ ul li a:hover {
 video{
     display: block;
     margin: 20px auto;
-    width: 100%;
+    width: 70%;
     height: auto;
 }
 
 img {
     display: block;
     margin: 20px auto;
-    width: 100%;
+    width: 70%;
     height: auto;
 }
 
@@ -100,8 +100,11 @@ td {
 
 footer {
     background-color: #333;
-    color: white;
-    padding: 10px;
+    color: #fff;
+    padding: 1px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
     text-align: center;
 }
 
