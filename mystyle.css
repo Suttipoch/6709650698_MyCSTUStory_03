@@ -112,7 +112,7 @@ footer {
     font-size: 35px;
     font-family: fantasy;
     position: fixed;
-    top: 150px;
+    top: 110px;
     right: 0;
     height: 100%;
 }
@@ -124,7 +124,7 @@ footer {
     font-size: 35px;
     font-family: fantasy;
     position: fixed;
-    top: 220px;
+    top: 160px;
     right: 0;
     height: 100%;
 }
@@ -136,7 +136,7 @@ footer {
     font-size: 35px;
     font-family: fantasy;
     position: fixed;
-    top: 290px;
+    top: 210px;
     right: 0;
     height: 100%;
 }
