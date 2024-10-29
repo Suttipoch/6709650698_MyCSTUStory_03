@@ -71,12 +71,12 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    display: flex;
+    justify-content: center;
     height: 70px;
-    justify-self: center;
 }
 
 ul li {
-    display: inline;
     margin: 0 30px;
 }
 
@@ -85,7 +85,6 @@ ul li a {
     color: #004d33;
     font-weight: bold;
     font-size: 18px;
-    font-weight: bold;
     font-family: fantasy;
 }
 
@@ -126,7 +125,7 @@ footer {
         height: 70px;
         justify-self: center;
         font-weight: bold;
-        font-size: 18px;
+        font-size: 0px;
         font-family: fantasy;
     }
     
