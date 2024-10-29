@@ -72,6 +72,7 @@ ul {
     margin: 0;
     padding: 0;
     height: 70px;
+    justify-self: center;
 }
 
 ul li {
@@ -84,6 +85,8 @@ ul li a {
     color: #004d33;
     font-weight: bold;
     font-size: 18px;
+    font-weight: bold;
+    font-family: fantasy;
 }
 
 ul li a:hover {
@@ -121,6 +124,10 @@ footer {
         margin: 0;
         padding: 0;
         height: 70px;
+        justify-self: center;
+        font-weight: bold;
+        font-size: 18px;
+        font-family: fantasy;
     }
     
     ul li {
@@ -177,6 +184,7 @@ footer {
         color: #004d33;
         font-weight: bold;
         font-size: 18px;
+        font-family: fantasy;
     }
     
     ul li a:hover {
