@@ -84,8 +84,8 @@ ul li a {
     text-decoration: none;
     color: #004d33;
     font-weight: bold;
-    font-size: 18px;
-    font-family: fantasy;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 ul li a:hover {
@@ -125,8 +125,8 @@ footer {
         height: 70px;
         justify-self: center;
         font-weight: bold;
-        font-size: 0px;
-        font-family: fantasy;
+        font-size: 30px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
     }
     
     ul li {
@@ -182,8 +182,8 @@ footer {
         text-decoration: none;
         color: #004d33;
         font-weight: bold;
-        font-size: 18px;
-        font-family: fantasy;
+        font-size: 20px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
     }
     
     ul li a:hover {
